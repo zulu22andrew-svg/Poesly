@@ -1,0 +1,16 @@
+{
+  "frame-0001": {
+    "blur": {
+      "imageUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0001-bg-blur.jpg",
+      "appliedAt": "2026-09-03T17:13:10.333Z"
+    },
+    "remove": {
+      "imageUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0001-bg-remove.png",
+      "appliedAt": "2026-09-03T17:13:08.125Z"
+    },
+    "white": {
+      "imageUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0001-bg-white.jpg",
+      "appliedAt": "2026-09-03T15:24:59.384Z"
+    }
+  }
+}

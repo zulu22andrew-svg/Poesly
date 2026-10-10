@@ -1,0 +1,15 @@
+file 'verification_frames/01_sharp_smiling.jpg'
+duration 1
+file 'verification_frames/02_sharp_neutral.jpg'
+duration 1
+file 'verification_frames/03_sharp_eyes_closed.jpg'
+duration 1
+file 'verification_frames/04_blur_mild.jpg'
+duration 1
+file 'verification_frames/05_blur_medium.jpg'
+duration 1
+file 'verification_frames/06_blur_heavy.jpg'
+duration 1
+file 'verification_frames/07_no_person.jpg'
+duration 1
+file 'verification_frames/07_no_person.jpg'

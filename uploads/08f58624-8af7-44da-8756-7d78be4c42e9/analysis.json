@@ -1,0 +1,2332 @@
+[
+  {
+    "id": "frame-0001",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0001.jpg",
+    "timestamp": 0,
+    "pose": {
+      "detected": true,
+      "confidence": 0.79,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.76,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.83,
+        "isSmiling": true,
+        "confidence": 0.9
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 100,
+      "variance": 1014.3,
+      "target": "face",
+      "level": "sharp",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 94,
+      "rating": "excellent",
+      "breakdown": {
+        "sharpnessScore": 100,
+        "faceScore": 100,
+        "poseScore": 75,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [],
+        "rawComposite": 94
+      },
+      "rank": 1
+    }
+  },
+  {
+    "id": "frame-0002",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0002.jpg",
+    "timestamp": 0.5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.79,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.76,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.83,
+        "isSmiling": true,
+        "confidence": 0.94
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 100,
+      "variance": 1014.3,
+      "target": "face",
+      "level": "sharp",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 94,
+      "rating": "excellent",
+      "breakdown": {
+        "sharpnessScore": 100,
+        "faceScore": 100,
+        "poseScore": 75,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [],
+        "rawComposite": 94
+      },
+      "rank": 2
+    }
+  },
+  {
+    "id": "frame-0003",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0003.jpg",
+    "timestamp": 1,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.76,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "neutral",
+        "smileScore": 0.32,
+        "isSmiling": false,
+        "confidence": 0.93
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 100,
+      "variance": 930.63,
+      "target": "face",
+      "level": "sharp",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 92,
+      "rating": "excellent",
+      "breakdown": {
+        "sharpnessScore": 100,
+        "faceScore": 94,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [],
+        "rawComposite": 92
+      },
+      "rank": 3
+    }
+  },
+  {
+    "id": "frame-0004",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0004.jpg",
+    "timestamp": 1.5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.76,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "neutral",
+        "smileScore": 0.32,
+        "isSmiling": false,
+        "confidence": 0.93
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 100,
+      "variance": 930.63,
+      "target": "face",
+      "level": "sharp",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 92,
+      "rating": "excellent",
+      "breakdown": {
+        "sharpnessScore": 100,
+        "faceScore": 94,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [],
+        "rawComposite": 92
+      },
+      "rank": 4
+    }
+  },
+  {
+    "id": "frame-0007",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0007.jpg",
+    "timestamp": 3,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.348,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.649,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.288,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.709,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.268,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.729,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.386,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.611,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.3,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.77,
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.84,
+        "isSmiling": true,
+        "confidence": 0.92
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 43,
+      "variance": 25.5,
+      "target": "face",
+      "level": "soft",
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 71,
+      "rating": "good",
+      "breakdown": {
+        "sharpnessScore": 43,
+        "faceScore": 100,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [],
+        "rawComposite": 71
+      },
+      "rank": 5
+    }
+  },
+  {
+    "id": "frame-0008",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0008.jpg",
+    "timestamp": 3.5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.348,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.649,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.288,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.709,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.268,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.729,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.386,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.611,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.3,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.77,
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.84,
+        "isSmiling": true,
+        "confidence": 0.88
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 43,
+      "variance": 25.5,
+      "target": "face",
+      "level": "soft",
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 71,
+      "rating": "good",
+      "breakdown": {
+        "sharpnessScore": 43,
+        "faceScore": 100,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [],
+        "rawComposite": 71
+      },
+      "rank": 6
+    }
+  },
+  {
+    "id": "frame-0009",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0009.jpg",
+    "timestamp": 4,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.419,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.389,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.449,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.399,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.399,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.348,
+          "y": 0.689,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.649,
+          "y": 0.689,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.288,
+          "y": 0.829,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.709,
+          "y": 0.829,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.268,
+          "y": 0.949,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.729,
+          "y": 0.949,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.386,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.611,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.45
+      },
+      "keyAngles": {
+        "shoulders": 0.3,
+        "torsoTilt": 0.1,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.77,
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.45
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.84,
+        "isSmiling": true,
+        "confidence": 0.89
+      },
+      "angle": {
+        "yaw": -0.1,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 31,
+      "variance": 6.18,
+      "target": "face",
+      "level": "blurry",
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.45
+      }
+    },
+    "quality": {
+      "score": 40,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 31,
+        "faceScore": 100,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "Severe blur / out-of-focus (-40% gate)"
+        ],
+        "rawComposite": 66
+      },
+      "rank": 7
+    }
+  },
+  {
+    "id": "frame-0010",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0010.jpg",
+    "timestamp": 4.5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.419,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.389,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.449,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.399,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.399,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.348,
+          "y": 0.689,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.649,
+          "y": 0.689,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.288,
+          "y": 0.829,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.709,
+          "y": 0.829,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.268,
+          "y": 0.949,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.729,
+          "y": 0.949,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.386,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.611,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.366,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.631,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.45
+      },
+      "keyAngles": {
+        "shoulders": 0.3,
+        "torsoTilt": 0.1,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.77,
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.45
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": true,
+        "leftScore": 0.98,
+        "rightScore": 0.98,
+        "state": "both_open"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.84,
+        "isSmiling": true,
+        "confidence": 0.96
+      },
+      "angle": {
+        "yaw": -0.1,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 31,
+      "variance": 6.18,
+      "target": "face",
+      "level": "blurry",
+      "bbox": {
+        "x": 0.378,
+        "y": 0.217,
+        "width": 0.241,
+        "height": 0.45
+      }
+    },
+    "quality": {
+      "score": 40,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 31,
+        "faceScore": 100,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "Severe blur / out-of-focus (-40% gate)"
+        ],
+        "rawComposite": 66
+      },
+      "rank": 8
+    }
+  },
+  {
+    "id": "frame-0005",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0005.jpg",
+    "timestamp": 2,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.77,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": false,
+        "rightOpen": false,
+        "leftScore": 0.08,
+        "rightScore": 0.08,
+        "state": "both_closed"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.83,
+        "isSmiling": true,
+        "confidence": 0.92
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 100,
+      "variance": 916.66,
+      "target": "face",
+      "level": "sharp",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 31,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 100,
+        "faceScore": 55,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "Blinking / both eyes closed (-60% composite gate)"
+        ],
+        "rawComposite": 78
+      },
+      "rank": 9
+    }
+  },
+  {
+    "id": "frame-0006",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0006.jpg",
+    "timestamp": 2.5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.417,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.387,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.447,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.397,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.685,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.825,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.945,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.77,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      },
+      "eyes": {
+        "leftOpen": false,
+        "rightOpen": false,
+        "leftScore": 0.08,
+        "rightScore": 0.08,
+        "state": "both_closed"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.83,
+        "isSmiling": true,
+        "confidence": 0.93
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": -1.2,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 100,
+      "variance": 916.66,
+      "target": "face",
+      "level": "sharp",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.217,
+        "width": 0.247,
+        "height": 0.446
+      }
+    },
+    "quality": {
+      "score": 31,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 100,
+        "faceScore": 55,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "Blinking / both eyes closed (-60% composite gate)"
+        ],
+        "rawComposite": 78
+      },
+      "rank": 10
+    }
+  },
+  {
+    "id": "frame-0011",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0011.jpg",
+    "timestamp": 5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.416,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.386,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.446,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.396,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.396,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.694,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.694,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.834,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.834,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.954,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.954,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.208,
+        "width": 0.247,
+        "height": 0.463
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0.1,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.78,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.208,
+        "width": 0.247,
+        "height": 0.463
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": false,
+        "leftScore": 0.95,
+        "rightScore": 0.08,
+        "state": "one_closed"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.72,
+        "isSmiling": true,
+        "confidence": 0.95
+      },
+      "angle": {
+        "yaw": 0.1,
+        "pitch": -1.5,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 19,
+      "variance": 3.2,
+      "target": "face",
+      "level": "blurry",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.208,
+        "width": 0.247,
+        "height": 0.463
+      }
+    },
+    "quality": {
+      "score": 24,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 19,
+        "faceScore": 78,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "One eye closed / winking (-45% face eye score)",
+          "Severe blur / out-of-focus (-40% gate)"
+        ],
+        "rawComposite": 54
+      },
+      "rank": 11
+    }
+  },
+  {
+    "id": "frame-0012",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0012.jpg",
+    "timestamp": 5.5,
+    "pose": {
+      "detected": true,
+      "confidence": 0.8,
+      "landmarks": [
+        {
+          "name": "nose",
+          "x": 0.498,
+          "y": 0.416,
+          "visibility": 0.95
+        },
+        {
+          "name": "left_eye",
+          "x": 0.458,
+          "y": 0.386,
+          "visibility": 0.94
+        },
+        {
+          "name": "right_eye",
+          "x": 0.538,
+          "y": 0.446,
+          "visibility": 0.94
+        },
+        {
+          "name": "left_ear",
+          "x": 0.408,
+          "y": 0.396,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_ear",
+          "x": 0.588,
+          "y": 0.396,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_shoulder",
+          "x": 0.344,
+          "y": 0.694,
+          "visibility": 0.92
+        },
+        {
+          "name": "right_shoulder",
+          "x": 0.653,
+          "y": 0.694,
+          "visibility": 0.92
+        },
+        {
+          "name": "left_elbow",
+          "x": 0.284,
+          "y": 0.834,
+          "visibility": 0.85
+        },
+        {
+          "name": "right_elbow",
+          "x": 0.713,
+          "y": 0.834,
+          "visibility": 0.85
+        },
+        {
+          "name": "left_wrist",
+          "x": 0.264,
+          "y": 0.954,
+          "visibility": 0.82
+        },
+        {
+          "name": "right_wrist",
+          "x": 0.733,
+          "y": 0.954,
+          "visibility": 0.82
+        },
+        {
+          "name": "left_hip",
+          "x": 0.383,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "right_hip",
+          "x": 0.614,
+          "y": 0.92,
+          "visibility": 0.88
+        },
+        {
+          "name": "left_knee",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "right_knee",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.75
+        },
+        {
+          "name": "left_ankle",
+          "x": 0.363,
+          "y": 0.98,
+          "visibility": 0.7
+        },
+        {
+          "name": "right_ankle",
+          "x": 0.634,
+          "y": 0.98,
+          "visibility": 0.7
+        }
+      ],
+      "bbox": {
+        "x": 0.375,
+        "y": 0.208,
+        "width": 0.247,
+        "height": 0.463
+      },
+      "keyAngles": {
+        "shoulders": 0.31,
+        "torsoTilt": 0.1,
+        "posture": "upright"
+      }
+    },
+    "face": {
+      "detected": true,
+      "confidence": 0.78,
+      "bbox": {
+        "x": 0.375,
+        "y": 0.208,
+        "width": 0.247,
+        "height": 0.463
+      },
+      "eyes": {
+        "leftOpen": true,
+        "rightOpen": false,
+        "leftScore": 0.95,
+        "rightScore": 0.08,
+        "state": "one_closed"
+      },
+      "expression": {
+        "type": "smiling",
+        "smileScore": 0.72,
+        "isSmiling": true,
+        "confidence": 0.91
+      },
+      "angle": {
+        "yaw": 0.1,
+        "pitch": -1.5,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "landmarksCount": 68
+    },
+    "sharpness": {
+      "score": 19,
+      "variance": 3.2,
+      "target": "face",
+      "level": "blurry",
+      "bbox": {
+        "x": 0.375,
+        "y": 0.208,
+        "width": 0.247,
+        "height": 0.463
+      }
+    },
+    "quality": {
+      "score": 24,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 19,
+        "faceScore": 78,
+        "poseScore": 76,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "One eye closed / winking (-45% face eye score)",
+          "Severe blur / out-of-focus (-40% gate)"
+        ],
+        "rawComposite": 54
+      },
+      "rank": 12
+    }
+  },
+  {
+    "id": "frame-0013",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0013.jpg",
+    "timestamp": 6,
+    "pose": {
+      "detected": false,
+      "confidence": 0,
+      "reason": "no pose detected"
+    },
+    "face": {
+      "detected": false,
+      "confidence": 0,
+      "eyes": {
+        "leftOpen": false,
+        "rightOpen": false,
+        "leftScore": 0,
+        "rightScore": 0,
+        "state": "both_closed"
+      },
+      "expression": {
+        "type": "neutral",
+        "smileScore": 0,
+        "isSmiling": false,
+        "confidence": 0
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "reason": "no face detected"
+    },
+    "sharpness": {
+      "score": 44,
+      "variance": 27.71,
+      "target": "full_frame",
+      "level": "soft"
+    },
+    "quality": {
+      "score": 1,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 44,
+        "faceScore": 0,
+        "poseScore": 0,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "No face detected (-80% cap)",
+          "No pose detected (-85% cap)"
+        ],
+        "rawComposite": 18
+      },
+      "rank": 13
+    }
+  },
+  {
+    "id": "frame-0014",
+    "url": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0014.jpg",
+    "timestamp": 6.5,
+    "pose": {
+      "detected": false,
+      "confidence": 0,
+      "reason": "no pose detected"
+    },
+    "face": {
+      "detected": false,
+      "confidence": 0,
+      "eyes": {
+        "leftOpen": false,
+        "rightOpen": false,
+        "leftScore": 0,
+        "rightScore": 0,
+        "state": "both_closed"
+      },
+      "expression": {
+        "type": "neutral",
+        "smileScore": 0,
+        "isSmiling": false,
+        "confidence": 0
+      },
+      "angle": {
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0,
+        "orientation": "facing_camera"
+      },
+      "reason": "no face detected"
+    },
+    "sharpness": {
+      "score": 44,
+      "variance": 27.71,
+      "target": "full_frame",
+      "level": "soft"
+    },
+    "quality": {
+      "score": 1,
+      "rating": "poor",
+      "breakdown": {
+        "sharpnessScore": 44,
+        "faceScore": 0,
+        "poseScore": 0,
+        "weights": {
+          "sharpness": 0.4,
+          "face": 0.35,
+          "pose": 0.25
+        },
+        "penalties": [
+          "No face detected (-80% cap)",
+          "No pose detected (-85% cap)"
+        ],
+        "rawComposite": 18
+      },
+      "rank": 14
+    }
+  }
+]

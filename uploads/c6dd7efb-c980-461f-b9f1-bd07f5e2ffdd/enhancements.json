@@ -1,0 +1,22 @@
+{
+  "frame-0001": {
+    "success": true,
+    "referenceId": "c6dd7efb-c980-461f-b9f1-bd07f5e2ffdd",
+    "frameId": "frame-0001",
+    "originalUrl": "/uploads/c6dd7efb-c980-461f-b9f1-bd07f5e2ffdd/frame-0001.jpg",
+    "enhancedUrl": "/uploads/c6dd7efb-c980-461f-b9f1-bd07f5e2ffdd/frame-0001-enhanced.jpg",
+    "originalDimensions": {
+      "width": 640,
+      "height": 480
+    },
+    "enhancedDimensions": {
+      "width": 1280,
+      "height": 960
+    },
+    "scaleFactor": 2,
+    "modelUsed": "GFPGAN-v1.4 Neural Face Restoration + Super-Resolution",
+    "processingTimeMs": 5849,
+    "faceEnhanced": true,
+    "enhancedAt": "2026-09-02T20:51:32.956Z"
+  }
+}

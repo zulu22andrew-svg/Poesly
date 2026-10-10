@@ -1,0 +1,42 @@
+{
+  "frame-0001": {
+    "success": true,
+    "referenceId": "08f58624-8af7-44da-8756-7d78be4c42e9",
+    "frameId": "frame-0001",
+    "originalUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0001.jpg",
+    "enhancedUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0001-enhanced.jpg",
+    "originalDimensions": {
+      "width": 640,
+      "height": 480
+    },
+    "enhancedDimensions": {
+      "width": 1280,
+      "height": 960
+    },
+    "scaleFactor": 2,
+    "modelUsed": "GFPGAN-v1.4 Neural Face Restoration + Super-Resolution",
+    "processingTimeMs": 5843,
+    "faceEnhanced": true,
+    "enhancedAt": "2026-09-02T21:14:51.163Z"
+  },
+  "frame-0002": {
+    "success": true,
+    "referenceId": "08f58624-8af7-44da-8756-7d78be4c42e9",
+    "frameId": "frame-0002",
+    "originalUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0002.jpg",
+    "enhancedUrl": "/uploads/08f58624-8af7-44da-8756-7d78be4c42e9/frame-0002-enhanced.jpg",
+    "originalDimensions": {
+      "width": 640,
+      "height": 480
+    },
+    "enhancedDimensions": {
+      "width": 1280,
+      "height": 960
+    },
+    "scaleFactor": 2,
+    "modelUsed": "GFPGAN-v1.4 Neural Face Restoration + Super-Resolution",
+    "processingTimeMs": 4446,
+    "faceEnhanced": true,
+    "enhancedAt": "2026-09-02T21:14:55.610Z"
+  }
+}

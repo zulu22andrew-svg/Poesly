@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@theme {
+  --color-studio-bg: #0B0B0F;
+  --color-studio-card: #12121A;
+  --color-studio-panel: #15151C;
+  --color-studio-subtle: #1A1A24;
+  --color-studio-border: #262635;
+  --color-studio-border-hover: #3A3A4E;
+  --color-purple-brand: #8B5CF6;
+  --color-indigo-brand: #6366F1;
+
+  --font-display: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #0B0B0F;
+    color: #F3F4F6;
+    font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  /* Custom dark scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #0B0B0F;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #262635;
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3B3B4F;
+  }
+
+  ::selection {
+    background-color: #7C3AED;
+    color: #FFFFFF;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  }
+
+  .font-sans {
+    font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* Glassmorphism */
+  .glass-panel {
+    background: rgba(18, 18, 26, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .glass-card {
+    background: rgba(22, 22, 32, 0.65);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+  }
+
+  /* Glow effects */
+  .glow-purple {
+    box-shadow: 0 0 25px -5px rgba(139, 92, 246, 0.3);
+  }
+
+  .glow-indigo {
+    box-shadow: 0 0 25px -5px rgba(99, 102, 241, 0.3);
+  }
+
+  .glow-subtle {
+    box-shadow: 0 0 15px -3px rgba(139, 92, 246, 0.15);
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "frame-0001": {
+    "success": true,
+    "referenceId": "096b6e32-a2c6-4e7f-b577-e3657bda2a34",
+    "frameId": "frame-0001",
+    "sourceType": "original",
+    "sourceUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0001.jpg",
+    "maskUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0001-mask.png",
+    "cutoutUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0001-cutout.png",
+    "overlayUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0001-overlay.jpg",
+    "dimensions": {
+      "width": 640,
+      "height": 480
+    },
+    "subjectCoveragePct": 12.7,
+    "averageConfidencePct": 98.2,
+    "edgeGradientScore": 133.6,
+    "confidenceStatus": "high",
+    "processingTimeMs": 366,
+    "segmentedAt": "2026-09-03T14:43:28.762Z"
+  },
+  "frame-0002": {
+    "success": true,
+    "referenceId": "096b6e32-a2c6-4e7f-b577-e3657bda2a34",
+    "frameId": "frame-0002",
+    "sourceType": "original",
+    "sourceUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0002.jpg",
+    "maskUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0002-mask.png",
+    "cutoutUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0002-cutout.png",
+    "overlayUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0002-overlay.jpg",
+    "dimensions": {
+      "width": 640,
+      "height": 480
+    },
+    "subjectCoveragePct": 12.7,
+    "averageConfidencePct": 98.2,
+    "edgeGradientScore": 133.4,
+    "confidenceStatus": "high",
+    "processingTimeMs": 343,
+    "segmentedAt": "2026-09-03T14:43:29.106Z"
+  },
+  "frame-0003": {
+    "success": true,
+    "referenceId": "096b6e32-a2c6-4e7f-b577-e3657bda2a34",
+    "frameId": "frame-0003",
+    "sourceType": "original",
+    "sourceUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0003.jpg",
+    "maskUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0003-mask.png",
+    "cutoutUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0003-cutout.png",
+    "overlayUrl": "/uploads/096b6e32-a2c6-4e7f-b577-e3657bda2a34/frame-0003-overlay.jpg",
+    "dimensions": {
+      "width": 640,
+      "height": 480
+    },
+    "subjectCoveragePct": 12.7,
+    "averageConfidencePct": 98.2,
+    "edgeGradientScore": 133.6,
+    "confidenceStatus": "high",
+    "processingTimeMs": 326,
+    "segmentedAt": "2026-09-03T14:43:29.433Z"
+  }
+}
